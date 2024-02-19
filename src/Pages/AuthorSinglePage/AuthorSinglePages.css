@@ -1,0 +1,57 @@
+.author-page-name {
+    color: #C9AC8C;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.author-page-desc {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.author-page-desc-tugilganyil {
+    color: rgba(255, 255, 255, 0.60);
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.author-page-yil {
+    color: #C9AC8C;
+    font-family: Poppins;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.4%;
+    /* 56.316px */
+}
+
+.author-page-location {
+    color: rgba(255, 255, 255, 0.60);
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.author-page-line {
+    color: #C9AC8C;
+    font-family: Poppins;
+    font-size: 39px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.4%;
+    /* 56.316px */
+}

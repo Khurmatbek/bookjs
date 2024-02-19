@@ -1,0 +1,17 @@
+.books-name {
+    color: #C9AC8C;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.books-author {
+    color: rgba(255, 255, 255, 0.60);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

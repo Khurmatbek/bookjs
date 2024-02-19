@@ -1,0 +1,30 @@
+.active .settings-number {
+    background-color: black;
+}
+
+.dark>.actives {
+    background-color: black;
+}
+
+.actives {
+    background-color: #152540 !important;
+    color: white !important;
+}
+
+.active .light {
+    background-color: #152540 !important;
+    color: white !important;
+}
+
+.actives {
+    background-color: black !important;
+}
+
+.activessec {
+    background-color: #152540 !important;
+}
+
+.header-settings-list-item:not(:first-child) .active {
+    color: black !important;
+
+}

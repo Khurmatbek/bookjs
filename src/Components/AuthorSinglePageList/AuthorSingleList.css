@@ -1,0 +1,9 @@
+.author-books-list::-webkit-scrollbar {
+    background-color:transparent;
+}
+.author-books-list::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+.author-books-list::-webkit-scrollbar-track {
+    background-color: transparent;
+}
